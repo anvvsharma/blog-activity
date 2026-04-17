@@ -9,7 +9,7 @@ Agentic AI systems and tool calling implementations.
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [Travel Planner Agent](https://github.com/yourusername/agentic-ai-suite/tree/main/projects/travel-planner-draft)
-- [Framework Examples](https://github.com/yourusername/agentic-ai-suite/tree/main/frameworks)
+- [Travel Planner Agent](https://github.com/anvvsharma/agentic-ai-suite/tree/main/projects/travel-planner-draft)
+- [Framework Examples](https://github.com/anvvsharma/agentic-ai-suite/tree/main/frameworks)

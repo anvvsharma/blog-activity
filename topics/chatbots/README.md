@@ -9,7 +9,7 @@ Building chatbots with LLMs, covering Groq API, Streamlit UI, and deployment.
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [Python Chatbot](https://github.com/yourusername/agentic-ai-suite/tree/main/finalized-pocs/python-chatbot)
-- [Streamlit Chatbot](https://github.com/yourusername/agentic-ai-suite/tree/main/finalized-pocs/streamlit-chatbot)
+- [Python Chatbot](https://github.com/anvvsharma/agentic-ai-suite/tree/main/finalized-pocs/python-chatbot)
+- [Streamlit Chatbot](https://github.com/anvvsharma/agentic-ai-suite/tree/main/finalized-pocs/streamlit-chatbot)

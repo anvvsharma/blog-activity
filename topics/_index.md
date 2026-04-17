@@ -18,7 +18,7 @@ Topics are for **navigation and organization** only:
 
 ## POC Implementations
 
-All POC code is maintained in [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite).
+All POC code is maintained in [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite).
 
 ## Adding New Topics
 

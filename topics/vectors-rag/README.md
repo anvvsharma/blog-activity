@@ -9,6 +9,6 @@ Vector databases and Retrieval-Augmented Generation systems.
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [IBM RAG Streamlit](https://github.com/yourusername/agentic-ai-suite/tree/main/finalized-pocs/ibm-rag-streamlit)
+- [IBM RAG Streamlit](https://github.com/anvvsharma/agentic-ai-suite/tree/main/finalized-pocs/ibm-rag-streamlit)
