@@ -15,14 +15,14 @@ Your public blogging workspace - blog content, learning notes, and portfolio.
 
 1. Write blog posts in `content/blogs/drafts/`
 2. Organize by topic in `content/topics/`
-3. Link to POCs in [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+3. Link to POCs in [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 4. Publish to platforms using configs in `publishing/`
 
 ## 🔗 Related Repositories
 
-- **POC Implementations**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
-- **ML Learning**: [ml-learning-journey](https://github.com/yourusername/ml-learning-journey)
-- **Tools**: [ai-engineering-tools](https://github.com/yourusername/ai-engineering-tools)
+- **POC Implementations**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
+- **ML Learning**: [ml-learning-journey](https://github.com/anvvsharma/ml-learning-journey)
+- **Tools**: [ai-engineering-tools](https://github.com/anvvsharma/ai-engineering-tools)
 
 ## 📝 Workflow
 
