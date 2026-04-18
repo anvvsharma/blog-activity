@@ -9,6 +9,6 @@ Data validation and settings management using Pydantic.
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [Basic Validation Examples](https://github.com/yourusername/agentic-ai-suite/tree/main/foundations/pydantic)
+- [Basic Validation Examples](https://github.com/anvvsharma/agentic-ai-suite/tree/main/foundations/pydantic)
