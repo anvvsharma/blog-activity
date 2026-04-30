@@ -7,15 +7,17 @@ Your public blogging workspace - organized blog content following a structured G
 ```
 blog-activity/
 ├── blogs/                    # All blog posts organized by 13-phase learning path
-├── BLOG-LICENSE              # CC BY-NC 4.0 for blog content  
-└── genai-agenticai
-│   ├── README.md            # Master navigation
-│   ├── 01-prerequisites/    # Category with README.md + blog posts
-│   ├── 02-llm-fundamentals/ # Category with README.md + blog posts
-│   └── ...13 categories     # Complete learning path structure
-│
-├── templates/               # Reusable blog templates
-└── LICENSE                 # MIT for code/scripts
+│   ├── BLOG-LICENSE                # CC BY-NC 4.0 for blog content  
+│   └── genai-agenticai
+│   │   ├── README.md               # Category README.md + blog posts
+│   │   ├── 01-prerequisites/       # Category with README.md + blog posts
+│   │   ├── 02-llm-fundamentals/    # Category with README.md + blog posts
+│   │   └── ...13 categories        # Complete learning path structure
+│   │
+├── templates/                  # Reusable blog templates
+├── LICENSE                     # MIT for code/scripts
+|── README.md                   # Master navigation
+
 ```
 
 ## 🚀 Quick Start
