@@ -4,7 +4,7 @@ seoTitle: "pydantic, python3, anvvsharma, anvv's blog"
 datePublished: 2026-04-30T18:02:25.193Z
 cuid: cmolsk5d300o02dl775mma4c2
 slug: how-to-build-robust-data-models-using-python-pydantic
-cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/3dbb204a-03b1-4943-9d7f-ca2ed241735d.png
+cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/f9e5f399-a844-4af3-ae28-78d90e43bba8.png
 tags: python, pydantic, python-setup
 
 ---
