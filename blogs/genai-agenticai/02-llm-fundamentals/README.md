@@ -28,11 +28,11 @@ This section covers the basics of LLMs, prompt engineering, and API integration 
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [LLM APIs](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/01-llm-fundamentals/llm-apis)
-- [Prompt Engineering](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/01-llm-fundamentals/prompt-engineering)
-- [LangChain Basics](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/01-llm-fundamentals/langchain-basics)
+- [LLM APIs](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/01-llm-fundamentals/llm-apis)
+- [Prompt Engineering](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/01-llm-fundamentals/prompt-engineering)
+- [LangChain Basics](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/01-llm-fundamentals/langchain-basics)
 
 ## 🎯 Learning Objectives
 

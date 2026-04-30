@@ -28,11 +28,11 @@ This section covers Python fundamentals, data validation with Pydantic, and envi
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [Pydantic Examples](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/00-prerequisites/pydantic)
-- [Async Programming](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/00-prerequisites/async-programming)
-- [Python Advanced](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/00-prerequisites/python-advanced)
+- [Pydantic Examples](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/00-prerequisites/pydantic)
+- [Async Programming](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/00-prerequisites/async-programming)
+- [Python Advanced](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/00-prerequisites/python-advanced)
 
 ## 🎯 Learning Objectives
 

@@ -34,12 +34,12 @@ This section covers RAG (Retrieval-Augmented Generation) systems, document proce
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [IBM RAG Streamlit](https://github.com/yourusername/agentic-ai-suite/tree/main/finalized-pocs/ibm-rag-streamlit)
-- [Document Processing](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/03-rag-systems/document-processing)
-- [Chunking Strategies](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/03-rag-systems/chunking-strategies)
-- [Retrieval Methods](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/03-rag-systems/retrieval-methods)
+- [IBM RAG Streamlit](https://github.com/anvvsharma/agentic-ai-suite/tree/main/finalized-pocs/ibm-rag-streamlit)
+- [Document Processing](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/03-rag-systems/document-processing)
+- [Chunking Strategies](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/03-rag-systems/chunking-strategies)
+- [Retrieval Methods](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/03-rag-systems/retrieval-methods)
 
 ## 🎯 Learning Objectives
 

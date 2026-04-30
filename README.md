@@ -25,7 +25,7 @@ blog-activity/
 1. **Browse blogs** by category in `blogs/` folder (organized by learning path phases)
 2. **Write new posts** in the appropriate category folder (e.g., `blogs/05-agents-fundamentals/`)
 3. **Update category README** to include your new blog post
-4. **Link to POCs** in [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+4. **Link to POCs** in [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 5. **Track status** using `blogs-index/` for drafts and published metadata
 
 ## 📚 Learning Path (13 Phases)
@@ -59,7 +59,7 @@ blog-activity/
 
 ## 📄 Licensing
 
-- **Blog Content**: [BLOG-LICENSE](BLOG-LICENSE) - CC BY-NC 4.0 (free for learning, no commercial use)
+- **Blog Content**: [BLOG-LICENSE](blogs/BLOG-LICENSE) - CC BY-NC 4.0 (free for learning, no commercial use)
 - **Code/Scripts**: [LICENSE](LICENSE) - MIT License
 
 ## 📊 Current Status

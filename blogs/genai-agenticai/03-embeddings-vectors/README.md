@@ -28,11 +28,11 @@ This section covers vectors, embeddings, and vector databases - the technology t
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [Vector Basics](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/02-embeddings-vectors/vector-basics)
-- [Vector Databases](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/02-embeddings-vectors/vector-databases)
-- [Similarity Search](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/02-embeddings-vectors/similarity-search)
+- [Vector Basics](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/02-embeddings-vectors/vector-basics)
+- [Vector Databases](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/02-embeddings-vectors/vector-databases)
+- [Similarity Search](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/02-embeddings-vectors/similarity-search)
 
 ## 🎯 Learning Objectives
 

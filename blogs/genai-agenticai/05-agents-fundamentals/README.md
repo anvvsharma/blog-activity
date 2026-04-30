@@ -33,12 +33,12 @@ This section covers AI agents, reasoning loops, memory systems, and human-in-the
 
 ## 💻 POC Implementations
 
-**Full Code**: [agentic-ai-suite](https://github.com/yourusername/agentic-ai-suite)
+**Full Code**: [agentic-ai-suite](https://github.com/anvvsharma/agentic-ai-suite)
 
-- [Agent Architecture](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/04-agents-fundamentals/agent-architecture)
-- [Memory Systems](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/04-agents-fundamentals/memory-systems)
-- [Reasoning Loops](https://github.com/yourusername/agentic-ai-suite/tree/main/learning-path/04-agents-fundamentals/reasoning-loops)
-- [Travel Planner Agent](https://github.com/yourusername/agentic-ai-suite/tree/main/projects/travel-planner-draft)
+- [Agent Architecture](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/04-agents-fundamentals/agent-architecture)
+- [Memory Systems](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/04-agents-fundamentals/memory-systems)
+- [Reasoning Loops](https://github.com/anvvsharma/agentic-ai-suite/tree/main/learning-path/04-agents-fundamentals/reasoning-loops)
+- [Travel Planner Agent](https://github.com/anvvsharma/agentic-ai-suite/tree/main/projects/travel-planner-draft)
 
 ## 🎯 Learning Objectives
 
