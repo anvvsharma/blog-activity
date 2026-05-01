@@ -1,10 +1,10 @@
----
+<!---
 **Author:** anvvsharma  
 **Published on:** 01-May-2026  
 **Platform:** Hashnode
 **Category:** Oracle Integration Cloud (OIC)  
 **Tags:** OIC, Integration Patterns, Architecture  
----
+--->
 
 # The Evolution of OIC Patterns: What Changed from Gen2 to Gen3?
 
