@@ -171,4 +171,3 @@ Don't try to memorize all 18 patterns today. Instead, pick **one** pattern from 
 
 > Written by [anvvsharma](https://anvvsharma.hashnode.dev)
 
-* * *
