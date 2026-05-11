@@ -1,8 +1,8 @@
 ---
-title: "The Evolution of OIC Patterns: What Changed from Gen2 to Gen3?"
+title: "OIC Pattern Mastery Series - Foundation: The Evolution of OIC Patterns: What Changed from Gen2 to Gen3?"
 datePublished: 2026-03-29T04:30:00.000Z
 cuid: cmon76eb700ai1qjc5jab8yts
-slug: the-evolution-of-oic-patterns-what-changed-from-gen2-to-gen3
+slug: oic-pattern-mastery-series-foundation-the-evolution-of-oic-patterns-what-changed-from-gen2-to-gen3
 cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/ada54a4a-91c8-4cfb-8b25-497d68cf6a6d.png
 
 ---
