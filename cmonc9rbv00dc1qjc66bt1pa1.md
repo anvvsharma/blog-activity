@@ -1,8 +1,8 @@
 ---
-title: "The Container Revolution: 4 Modern Patterns Defining OIC Gen3"
+title: "OIC Pattern Mastery Series - Foundation: The Container Revolution: 4 Modern Patterns Defining OIC Gen3"
 datePublished: 2026-03-29T04:30:00.000Z
 cuid: cmonc9rbv00dc1qjc66bt1pa1
-slug: the-container-revolution-4-modern-patterns-defining-oic-gen3
+slug: oic-pattern-mastery-series-foundation-the-container-revolution-4-modern-patterns-defining-oic-gen3
 cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/58ad47f5-a3af-49d9-a0a5-230c95c9b93a.png
 
 ---
