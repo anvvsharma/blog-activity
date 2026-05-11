@@ -1,8 +1,8 @@
 ---
-title: "Beyond the Basics: 3 Advanced Patterns for Complex OIC Landscapes"
+title: "OIC Pattern Mastery Series - Foundation: Beyond the Basics: 3 Advanced Patterns for Complex OIC Landscapes"
 datePublished: 2026-03-28T04:30:00.000Z
 cuid: cmon7vtyx00b61qjc95tl3zkc
-slug: beyond-the-basics-3-advanced-patterns-for-complex-oic-landscapes
+slug: oic-pattern-mastery-series-foundation-beyond-the-basics-3-advanced-patterns-for-complex-oic-landscapes
 cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/081e1762-a313-4660-b7b8-2b1d39eeeb5f.png
 
 ---
