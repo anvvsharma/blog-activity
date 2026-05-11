@@ -1,8 +1,8 @@
 ---
-title: "Part 0: Series Introduction - From Developer to Architect"
+title: "OIC Pattern Mastery Series Part 0: Series Introduction - From Developer to Architect"
 datePublished: 2026-03-30T05:00:00.000Z
 cuid: cmp050qbw01pm1qiz7zic99mt
-slug: part-0-series-introduction-from-developer-to-architect
+slug: oic-pattern-mastery-series-part-0-series-introduction-from-developer-to-architect
 cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/aa4217e9-fb54-4ab5-a9df-872afd5987b6.png
 
 ---
