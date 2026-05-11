@@ -1,8 +1,8 @@
 ---
-title: "The Architect's Toolkit: 7 Patterns Every Integration Project Needs"
+title: "OIC Pattern Mastery Series - Foundation: The Architect's Toolkit: 7 Patterns Every Integration Project Needs"
 datePublished: 2026-03-28T03:30:00.000Z
 cuid: cmon69vlu00a11qjc5mj0edi8
-slug: the-architect-s-toolkit-7-patterns-every-integration-project-needs
+slug: oic-pattern-mastery-series-foundation-the-architect-s-toolkit-7-patterns-every-integration-project-needs
 cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/7c7a5d8b-a83e-456d-be2e-8f89ccd0f6fd.png
 
 ---
