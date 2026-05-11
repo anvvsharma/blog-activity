@@ -152,9 +152,9 @@ We are not just writing code. We are designing **resilient, scalable, and secure
 
 **👉 Your Next Step:**
 
-1.  **Start Here:** If you haven't read our **Foundation Series** yet, begin with **\[The Architect's Toolkit: 7 Core Patterns\]** to build your vocabulary.
+1.  **Start Here:** If you haven't read our **Foundation Series** yet, begin with **[The Architect's Toolkit: 7 Core Patterns](https://anvvsharma.hashnode.dev/the-architect-s-toolkit-7-patterns-every-integration-project-needs)** to build your vocabulary.
     
-2.  **Then, Continue:** Once you are ready, head to **Part 1: The Multi-Device Broker Pattern** where we will tackle the story of Veera's Midnight Crisis and see how this single architectural pattern solves the chaos of multi-device synchronization.
+2.  **Then, Continue:** Once you are ready, head to [**Part 1: The Multi-Device Broker Pattern**](https://anvvsharma.hashnode.dev/oic-pattern-mastery-series-part-1-the-multi-device-broker) where we will tackle the story of Veera's Midnight Crisis and see how this single architectural pattern solves the chaos of multi-device synchronization.
     
 
 Stay tuned. The journey from Developer to Architect starts now.
@@ -170,4 +170,3 @@ Don't try to memorize all 18 patterns today. Instead, pick **one** pattern from 
 ## Stay Tune
 
 > Written by [anvvsharma](https://anvvsharma.hashnode.dev)
-
