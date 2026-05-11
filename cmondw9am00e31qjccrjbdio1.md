@@ -1,8 +1,8 @@
 ---
-title: "The Hidden Heroes: 4 Specialized Patterns for Tricky OIC Challenges"
+title: "OIC Pattern Mastery Series - Foundation: The Hidden Heroes: 4 Specialized Patterns for Tricky OIC Challenges"
 datePublished: 2026-03-29T03:30:00.000Z
 cuid: cmondw9am00e31qjccrjbdio1
-slug: the-hidden-heroes-4-specialized-patterns-for-tricky-oic-challenges
+slug: oic-pattern-mastery-series-foundation-the-hidden-heroes-4-specialized-patterns-for-tricky-oic-challenges
 cover: https://cdn.hashnode.com/uploads/covers/69ce72fa0ff860b6ded94f66/f7269e5b-cc56-4e48-9047-79e2fea6dbf5.png
 
 ---
