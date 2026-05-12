@@ -1,8 +1,7 @@
----
-
+<!---
 ### 📘 Deep Dive 2: Service Agent Architecture
 **Focus:** The "Guard" of the Broker (Security, Validation, Reusability)
-
+-->
 ```markdown
 <!--- **Author:** anvvsharma **Published on:** {{DATE}} **Platform:** Hashnode **Topic:** Service Agent Architecture **Category:** Oracle Integration Cloud (OIC) **Tags:** OIC, ServiceAgentArchitecture, Gen3, Security, Reusability, OracleGen3 --->
 
