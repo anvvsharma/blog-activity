@@ -1,11 +1,5 @@
-<!---
-### 📘 Deep Dive 2: Service Agent Architecture
-**Focus:** The "Guard" of the Broker (Security, Validation, Reusability)
-
-```markdown
 <!--- **Author:** anvvsharma **Published on:** {{DATE}} **Platform:** Hashnode **Topic:** Service Agent Architecture **Category:** Oracle Integration Cloud (OIC) **Tags:** OIC, ServiceAgentArchitecture, Gen3, Security, Reusability, OracleGen3 --->
-```
--->
+
 # Service Agent Architecture Pattern: Technical Implementation & Best Practices in OIC Gen3
 
 In complex integration landscapes, repeating the same security checks, validation logic, and error handling across dozens of flows leads to "spaghetti code" and inconsistent security postures. If you change an authentication rule, you have to update 50 different integrations.
