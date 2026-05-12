@@ -1,9 +1,4 @@
----
 
-### 📘 Deep Dive 3: Concurrency & Idempotency
-**Focus:** The "Safety Net" of the Broker (Handling Race Conditions & Duplicates)
-
-```markdown
 <!--- **Author:** anvvsharma **Published on:** {{DATE}} **Platform:** Hashnode **Topic:** Concurrency & Idempotency **Category:** Oracle Integration Cloud (OIC) **Tags:** OIC, Idempotency, ConcurrencyControl, SagaPattern, Gen3, OracleGen3 --->
 
 # Concurrency & Idempotency Patterns: Technical Implementation & Best Practices in OIC Gen3
