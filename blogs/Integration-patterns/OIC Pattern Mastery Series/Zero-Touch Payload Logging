@@ -1,0 +1,61 @@
+# Zero-Touch Payload Logging
+
+### Plug-and-play payload logging for OIC, without touching a single integration
+
+**Series:** OIC Pattern Mastery Series  
+**Published:** October 15, 2026  
+**Original post:** https://anvvsharma.substack.com/p/zero-touch-payload-logging
+
+## Summary
+
+Instead of adding logging calls to every Oracle Integration Cloud (OIC) integration, use the payload and activity information OIC already records. A scheduled integration can retrieve instance activity through the OIC REST API and persist the relevant request, response, and fault details to a database before OIC's retention period expires.
+
+The goal is to build the mechanism once and reuse it across OIC instances without changing existing business integrations.
+
+## The problem with integration-level logging
+
+A conventional approach often requires teams to:
+
+- Create logging tables and logging integrations.
+- Add logging calls around invokes throughout business integrations.
+- Redeploy and retest each modified integration.
+- Maintain consistent handling of requests, responses, faults, and loops.
+
+This adds development effort and runtime overhead. It can also create inconsistent logging practices and introduce a dependency on the logging integration itself.
+
+## The key insight
+
+OIC already records activity details, including request and response information, during the instance's retention period. Rather than recording the same payloads a second time inside every business integration, retrieve the recorded activity and archive it before it expires.
+
+## Proposed architecture
+
+The reusable solution consists of one scheduled OIC integration and a database procedure.
+
+1. **Discover instances:** Use the OIC REST API to list integration instances.
+2. **Retrieve activity:** Fetch the activity stream for each relevant instance.
+3. **Pass the stream to the database:** Send the activity data as text to a stored procedure.
+4. **Extract and persist payloads:** Parse the activity nodes and store the request and response details, including relevant fault information.
+
+The instance name becomes the key configuration input when onboarding another OIC environment. Existing business integrations remain unchanged.
+
+## Important implementation considerations
+
+- **Retention window:** Schedule extraction before OIC removes the instance activity data.
+- **Storage and cleanup:** Estimate database growth and define a retention and purge policy for archived payloads.
+- **Security:** Payloads may contain sensitive information. Define access controls, approved retention periods, and appropriate handling rules.
+- **Nested activity nodes:** Ensure the parser handles payloads nested several levels deep.
+- **Fault nodes:** Some error nodes may not contain a payload, so parsing should account for missing data.
+- **Large payloads:** Some payloads may be represented by links rather than embedded directly in the activity stream; handle retrieval accordingly.
+
+## Key takeaways
+
+- Avoid adding a logging framework to every business integration when OIC already records the activity data you need.
+- A scheduled integration, the OIC REST API, and a database procedure can provide a reusable extraction and archival pattern.
+- Existing integrations need not be modified.
+- Plan for retention, database growth, cleanup, and access control from the beginning.
+
+**Bottom line:** Build it once; run it against any OIC instance.
+
+---
+
+*This Markdown file is a structured summary of the original post, not a verbatim transcript.*
