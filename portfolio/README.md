@@ -180,7 +180,7 @@ Specializing in Generative AI, Agentic AI systems, and Large Language Models, wi
 
 - **GitHub**: [View Repositories](https://github.com/anvvsharma)
 - **Blog**: Technical articles on AI/ML
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/anvvsharma/)
 - **Email**: anvvsharma.general@gmail.com
 
 ## 💡 Philosophy
